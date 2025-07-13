@@ -7,6 +7,8 @@ A sleek, responsive, and minimalistic website that showcases my journey as a dev
 
 👉 [Visit My Portfolio](https://v0-neetesh-portfolio.vercel.app/)
 
+second version - https://steady-otter-abd90d.netlify.app/
+
 ---
 
 ## 📌 Features
