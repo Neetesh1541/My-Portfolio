@@ -1,37 +1,44 @@
-# 🌐 Neetesh's Portfolio Website...
+# 🌐 Neetesh Sharma — Portfolio
 
-Welcome to my personal portfolio website!  
-A sleek, responsive, and minimalistic website that showcases my journey as a developer, my projects, and how to reach me.
+A personal developer portfolio showcasing projects, technical skills, experience, and ways to connect.
 
-## 🚀 Live Demo
+## 🌐 Live Versions
 
-👉 [Visit My Portfolio](https://v0-neetesh-portfolio.vercel.app/)
+- Primary portfolio: https://v0-neetesh-portfolio.vercel.app/
+- Alternate deployment: https://steady-otter-abd90.netlify.app/
 
-second version - https://steady-otter-abd90d.netlify.app/
+## ✨ Highlights
 
----
+- 👋 About section
+- 🛠️ Technical skills and tools
+- 🚀 Project showcase with demos and source code
+- 📱 Responsive design
+- ✨ Smooth animations and modern UI
+- 📬 Contact and social links
 
-## 📌 Features
+## 🛠️ Tech Stack
 
-- 🧑‍💼 About Me section to know who I am
-- 🛠 Skills section highlighting my tech stack
-- 📂 Projects with links to live demos and source code
-- 📞 Contact info with social links
-- ✨ Fully responsive design with smooth animations
+- HTML5
+- CSS3
+- JavaScript
+- Vercel
 
----
+## 🚀 Run Locally
 
-## 🧰 Tech Stack
+```bash
+git clone https://github.com/Neetesh1541/My-Portfolio.git
+cd My-Portfolio
+```
 
-- **Frontend:** HTML, CSS, JavaScript
-- **Deployment:** Vercel
+Open the main HTML entry point in a browser, or use a local static-file server for development.
 
----
+## 🎯 Purpose
 
-## 🛠️ Getting Started
+The portfolio acts as a central place to explore my development work, experiments, and projects across web development and AI.
 
-Wanna run it locally? Follow these steps:
+## 👨‍💻 About
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/portfolio-website.git
+Built and maintained by **Neetesh Sharma**.
+
+- GitHub: https://github.com/neetesh1541
+- Portfolio: https://neetesh.tech
